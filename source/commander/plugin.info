@@ -1,6 +1,6 @@
 {
     "title": "$:/plugins/kookma/commander",
-    "version": "2.1.14",
+    "version": "2.1.14+nikorion",
     "stability": "STABILITY_2_STABLE",
     "name": "Tiddler Commander",
     "description": "Streamline tiddler management: bulk operations for titles, tags, and fields",

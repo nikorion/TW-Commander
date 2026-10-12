@@ -1,0 +1,5 @@
+description: Untagged tiddlers and non tag tiddlers
+filter: [!is[system]untagged[]] [!is[system]tag[$:/tags/Commander/Working]] -[field:type[tag]]
+tags: $:/tags/Commander/Filter
+title: $:/plugins/kookma/commander/filters/Untagged
+type: text/vnd.tiddlywiki

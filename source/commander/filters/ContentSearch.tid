@@ -1,0 +1,5 @@
+description: Content Search
+filter: [!is[system]search:text:regexp[keyword]]
+tags: $:/tags/Commander/Filter
+title: $:/plugins/kookma/commander/filters/ContentSearch
+type: text/vnd.tiddlywiki

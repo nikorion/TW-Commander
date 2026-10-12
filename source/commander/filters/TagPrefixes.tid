@@ -1,0 +1,5 @@
+description: Tag prefixes
+filter: [!is[system]] :filter[tags[]prefix[keyword]]
+tags: $:/tags/Commander/Filter
+title: $:/plugins/kookma/commander/filters/TagPrefixes
+type: text/vnd.tiddlywiki

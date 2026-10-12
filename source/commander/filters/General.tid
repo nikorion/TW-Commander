@@ -1,0 +1,5 @@
+description: General filter
+filter: [all[shadows+tiddlers]search[your keywords]]
+tags: $:/tags/Commander/Filter
+title: $:/plugins/kookma/commander/filters/General
+type: text/vnd.tiddlywiki
